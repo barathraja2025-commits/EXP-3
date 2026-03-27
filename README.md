@@ -41,6 +41,10 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+
+![image](https://github.com/barathraja2025-commits/EXP-3/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.24%20AM.jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-3/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.25%20AM%20(1).jpeg)
+![image](https://github.com/barathraja2025-commits/EXP-3/blob/main/WhatsApp%20Image%202026-03-26%20at%209.12.25%20AM.jpeg)
 	
 Cross connection: CIRCUIT DIAGRAM:
 
